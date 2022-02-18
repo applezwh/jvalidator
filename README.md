@@ -145,7 +145,7 @@ jvalidator
     如：@city[北京]，即为验证 [name=city]的字段的值是否为北京。
     或者 @city[@city2]，即验证 city 和 city2 两个字段是否一致 
 
-
+紫薇花到此一游
 
 ### 如何看 demo ###
 
